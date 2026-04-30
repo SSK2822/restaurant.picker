@@ -1,0 +1,9 @@
+lists:
+  - name: "Coffee & Bakery"
+    url: "https://maps.app.goo.gl/DynoFDRsNK2VxugC8"
+  - name: "Mediterranean"
+    url: "https://maps.app.goo.gl/szUK1dfZysYWpsen8"
+  - name: "Asian"
+    url: "https://maps.app.goo.gl/cXYHCLZWxsSfwm3MA"
+  - name: "Boba"
+    url: "https://maps.app.goo.gl/4WoMZ8Dnkw9k1TUK6"

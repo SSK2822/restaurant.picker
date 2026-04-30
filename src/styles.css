@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html, body, #root {
+    height: 100%;
+  }
+  body {
+    @apply bg-sun-50 text-sun-900 font-sans antialiased;
+    background-image:
+      radial-gradient(circle at 8% -10%, rgba(255, 203, 82, 0.35), transparent 45%),
+      radial-gradient(circle at 95% 5%, rgba(255, 126, 118, 0.25), transparent 35%);
+    background-attachment: fixed;
+  }
+  h1, h2, h3 {
+    @apply font-display tracking-tight;
+  }
+}
+
+@layer components {
+  .card {
+    @apply bg-white/85 backdrop-blur rounded-2xl shadow-cozy border border-sun-100;
+  }
+  .btn-primary {
+    @apply inline-flex items-center justify-center gap-2 px-5 py-3 rounded-full
+           bg-sun-500 text-white font-semibold shadow-pop
+           hover:bg-sun-600 active:translate-y-px transition;
+  }
+  .btn-ghost {
+    @apply inline-flex items-center justify-center gap-2 px-4 py-2 rounded-full
+           text-sun-800 hover:bg-sun-100 transition;
+  }
+  .pill {
+    @apply inline-flex items-center gap-1 px-2.5 py-1 rounded-full text-xs font-semibold
+           bg-sun-100 text-sun-800;
+  }
+}
+
+/* Slot reel mask */
+.reel-mask {
+  -webkit-mask-image: linear-gradient(to bottom, transparent, black 20%, black 80%, transparent);
+          mask-image: linear-gradient(to bottom, transparent, black 20%, black 80%, transparent);
+}
