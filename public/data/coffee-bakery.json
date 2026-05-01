@@ -3,8 +3,21 @@
   "slug": "coffee-bakery",
   "source_url": "https://maps.app.goo.gl/DynoFDRsNK2VxugC8",
   "list_id": "1ezCTBUP9DbqX5Y3VZYEcg",
-  "updated_at": "2026-04-30T00:53:02+00:00",
+  "updated_at": "2026-05-01T10:18:56+00:00",
   "places": [
+    {
+      "place_id": "fid:-8520149027517090401:-5898852537084044366",
+      "name": "Madman Espresso",
+      "address": "54 University Pl, New York, NY 10003",
+      "lat": 40.7325917,
+      "lng": -73.9940961,
+      "maps_url": "https://maps.google.com/?cid=12547891536625507250",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/11mbprnh7z",
       "name": "The Bearded Baker",
