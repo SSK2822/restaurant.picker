@@ -14,6 +14,7 @@ export interface Place {
   place_id: string;
   name: string;
   address: string;
+  borough: string;
   lat: number | null;
   lng: number | null;
   rating: number | null;

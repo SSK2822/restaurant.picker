@@ -18,7 +18,7 @@ from pathlib import Path
 import httpx
 import yaml
 
-from extractors import COMMON_HEADERS, fetch_list, slugify
+from extractors import COMMON_HEADERS, detect_borough, fetch_list, slugify
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -61,6 +61,7 @@ def shape_for_frontend(parsed: dict, name: str, source_url: str) -> dict:
                 "place_id": p["place_id"],
                 "name": p["name"],
                 "address": p["address"],
+                "borough": detect_borough(p["address"]),
                 "lat": p["lat"],
                 "lng": p["lng"],
                 "maps_url": p["maps_url"],

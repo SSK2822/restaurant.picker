@@ -174,3 +174,68 @@ def _fallback_maps_url(name: str, address: str) -> str:
     from urllib.parse import quote
     q = quote(f"{name} {address}".strip())
     return f"https://www.google.com/maps/search/?api=1&query={q}"
+
+
+# ---------------------------------------------------------------------------
+# Borough detection
+# ---------------------------------------------------------------------------
+
+# Order matters: check longest/most-specific strings first.
+_BOROUGH_KEYWORDS: list[tuple[str, str]] = [
+    ("staten island", "Staten Island"),
+    ("bronx", "Bronx"),
+    ("brooklyn", "Brooklyn"),
+    # Queens neighborhoods that don't appear in city/borough field
+    ("astoria", "Queens"),
+    ("long island city", "Queens"),
+    ("flushing", "Queens"),
+    ("jackson heights", "Queens"),
+    ("forest hills", "Queens"),
+    ("ridgewood", "Queens"),
+    ("bayside", "Queens"),
+    ("jamaica", "Queens"),
+    ("elmhurst", "Queens"),
+    ("woodside", "Queens"),
+    ("corona, ny", "Queens"),
+    ("sunnyside", "Queens"),
+    ("maspeth", "Queens"),
+    ("queens", "Queens"),
+    # Bronx neighborhoods
+    ("riverdale", "Bronx"),
+    ("fordham", "Bronx"),
+    ("pelham", "Bronx"),
+    # Manhattan shows up as "New York" in most addresses
+    ("manhattan", "Manhattan"),
+    ("new york, ny", "Manhattan"),
+    ("new york, new york", "Manhattan"),
+]
+
+# NYC ZIP codes by borough.
+# Manhattan: 10001-10282
+# Bronx: 10451-10475
+# Brooklyn: 11201-11256
+# Queens: 11004-11005, 11101-11106, 11354-11697
+# Staten Island: 10301-10314
+_ZIP_BOROUGH: list[tuple[re.Pattern, str]] = [
+    (re.compile(r"\bny\s+10[0-2]\d{2}\b", re.I), "Manhattan"),
+    (re.compile(r"\bny\s+104[5-7]\d\b", re.I), "Bronx"),
+    (re.compile(r"\bny\s+112\d{2}\b", re.I), "Brooklyn"),
+    (re.compile(r"\bny\s+111\d{2}\b", re.I), "Queens"),   # LIC/Astoria area
+    (re.compile(r"\bny\s+11[3-6]\d{2}\b", re.I), "Queens"),
+    (re.compile(r"\bny\s+1100[45]\b", re.I), "Queens"),
+    (re.compile(r"\bny\s+103\d{2}\b", re.I), "Staten Island"),
+]
+
+
+def detect_borough(address: str) -> str:
+    """Best-effort NYC borough detection from a street address string."""
+    if not address:
+        return ""
+    lower = address.lower()
+    for keyword, borough in _BOROUGH_KEYWORDS:
+        if keyword in lower:
+            return borough
+    for pattern, borough in _ZIP_BOROUGH:
+        if pattern.search(lower):
+            return borough
+    return ""
