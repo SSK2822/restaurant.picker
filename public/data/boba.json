@@ -3,8 +3,22 @@
   "slug": "boba",
   "source_url": "https://maps.app.goo.gl/4WoMZ8Dnkw9k1TUK6",
   "list_id": "4EDQzL77O7_d2NFXQn0p4g",
-  "updated_at": "2026-05-02T04:26:29+00:00",
+  "updated_at": "2026-05-10T10:07:56+00:00",
   "places": [
+    {
+      "place_id": "/g/11vwr1bljp",
+      "name": "N25 Nitro Tea",
+      "address": "27 St Marks Pl, New York, NY 10003",
+      "borough": "Manhattan",
+      "lat": 40.7291524,
+      "lng": -73.9883571,
+      "maps_url": "https://maps.google.com/?cid=4144131156482427843",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/11nbn8stwv",
       "name": "NaiSnow Tea and Bakery Grand Street",
