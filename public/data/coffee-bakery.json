@@ -3,8 +3,22 @@
   "slug": "coffee-bakery",
   "source_url": "https://maps.app.goo.gl/DynoFDRsNK2VxugC8",
   "list_id": "1ezCTBUP9DbqX5Y3VZYEcg",
-  "updated_at": "2026-05-02T04:26:27+00:00",
+  "updated_at": "2026-05-11T11:59:52+00:00",
   "places": [
+    {
+      "place_id": "/g/11f9hcfx6m",
+      "name": "Malai",
+      "address": "268 Smith St, Brooklyn, NY 11231",
+      "borough": "Brooklyn",
+      "lat": 40.6827216,
+      "lng": -73.9933259,
+      "maps_url": "https://maps.google.com/?cid=15407472152707751461",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "fid:-8520149027517090401:-5898852537084044366",
       "name": "Madman Espresso",

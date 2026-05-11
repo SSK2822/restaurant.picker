@@ -3,8 +3,36 @@
   "slug": "asian",
   "source_url": "https://maps.app.goo.gl/cXYHCLZWxsSfwm3MA",
   "list_id": "7Rn6uSmuW6h9QbXLywb0tg",
-  "updated_at": "2026-05-08T10:20:15+00:00",
+  "updated_at": "2026-05-11T11:59:54+00:00",
   "places": [
+    {
+      "place_id": "/g/1tvtc8fd",
+      "name": "Roti Roll (Bombay Frankie)",
+      "address": "994 Amsterdam Ave, New York, NY 10025",
+      "borough": "Manhattan",
+      "lat": 40.802607699999996,
+      "lng": -73.9643696,
+      "maps_url": "https://maps.google.com/?cid=3011238318015280999",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
+    {
+      "place_id": "/g/11s5txsvvc",
+      "name": "Masalawala & Sons",
+      "address": "365 5th Ave, Brooklyn, NY 11215",
+      "borough": "Brooklyn",
+      "lat": 40.671256,
+      "lng": -73.98426549999999,
+      "maps_url": "https://maps.google.com/?cid=3758858882430911029",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/11rcq1s6ln",
       "name": "Malii Gramercy",
