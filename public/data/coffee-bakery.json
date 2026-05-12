@@ -3,8 +3,22 @@
   "slug": "coffee-bakery",
   "source_url": "https://maps.app.goo.gl/DynoFDRsNK2VxugC8",
   "list_id": "1ezCTBUP9DbqX5Y3VZYEcg",
-  "updated_at": "2026-05-11T11:59:52+00:00",
+  "updated_at": "2026-05-12T11:15:05+00:00",
   "places": [
+    {
+      "place_id": "/g/11ycg47z6t",
+      "name": "Arcane Estate Coffee",
+      "address": "37 Cornelia St, New York, NY 10014",
+      "borough": "Manhattan",
+      "lat": 40.731280399999996,
+      "lng": -74.00275979999999,
+      "maps_url": "https://maps.google.com/?cid=17614366368615993930",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/11f9hcfx6m",
       "name": "Malai",
