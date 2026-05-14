@@ -3,8 +3,22 @@
   "slug": "boba",
   "source_url": "https://maps.app.goo.gl/4WoMZ8Dnkw9k1TUK6",
   "list_id": "4EDQzL77O7_d2NFXQn0p4g",
-  "updated_at": "2026-05-10T10:07:56+00:00",
+  "updated_at": "2026-05-14T11:10:22+00:00",
   "places": [
+    {
+      "place_id": "/g/11ydqz5f8l",
+      "name": "TP TEA 茶湯會 (Columbus Circle, NY)",
+      "address": "330 W 58th St, New York, NY 10019",
+      "borough": "Manhattan",
+      "lat": 40.7679342,
+      "lng": -73.98378799999999,
+      "maps_url": "https://maps.google.com/?cid=3912455422793133871",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/11vwr1bljp",
       "name": "N25 Nitro Tea",

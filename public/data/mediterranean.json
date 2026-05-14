@@ -3,8 +3,22 @@
   "slug": "mediterranean",
   "source_url": "https://maps.app.goo.gl/szUK1dfZysYWpsen8",
   "list_id": "5EmA-1BtQ2KwvV2djJ43fw",
-  "updated_at": "2026-05-02T04:26:28+00:00",
+  "updated_at": "2026-05-14T11:10:21+00:00",
   "places": [
+    {
+      "place_id": "/g/11f6drpsh9",
+      "name": "tava turkish and mediterranean",
+      "address": "318 5th Ave, Brooklyn, NY 11215",
+      "borough": "Brooklyn",
+      "lat": 40.6731536,
+      "lng": -73.983283,
+      "maps_url": "https://maps.google.com/?cid=18235744887694974916",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/11yjzgmn4n",
       "name": "Dear Margo",
