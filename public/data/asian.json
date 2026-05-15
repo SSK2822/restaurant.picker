@@ -3,8 +3,22 @@
   "slug": "asian",
   "source_url": "https://maps.app.goo.gl/cXYHCLZWxsSfwm3MA",
   "list_id": "7Rn6uSmuW6h9QbXLywb0tg",
-  "updated_at": "2026-05-14T11:10:21+00:00",
+  "updated_at": "2026-05-15T11:14:46+00:00",
   "places": [
+    {
+      "place_id": "/g/11x_5jz4lj",
+      "name": "Crispy Burger 脆脆鸡- Brooklyn",
+      "address": "4505 8th Ave, Brooklyn, NY 11220",
+      "borough": "Brooklyn",
+      "lat": 40.6435854,
+      "lng": -74.000759,
+      "maps_url": "https://maps.google.com/?cid=10126958256491509295",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/11xswzg6gh",
       "name": "Hampton Chutney Astor Place",
