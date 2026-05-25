@@ -3,8 +3,22 @@
   "slug": "boba",
   "source_url": "https://maps.app.goo.gl/4WoMZ8Dnkw9k1TUK6",
   "list_id": "4EDQzL77O7_d2NFXQn0p4g",
-  "updated_at": "2026-05-23T10:23:29+00:00",
+  "updated_at": "2026-05-25T12:21:48+00:00",
   "places": [
+    {
+      "place_id": "/g/11jndvvb1p",
+      "name": "Débutea Brooklyn",
+      "address": "71 Smith St, Brooklyn, NY 11201",
+      "borough": "Brooklyn",
+      "lat": 40.6893282,
+      "lng": -73.9884467,
+      "maps_url": "https://maps.google.com/?cid=5332207610385009173",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/11x7j2fqzq",
       "name": "CHAYANN Tea",
