@@ -3,8 +3,22 @@
   "slug": "boba",
   "source_url": "https://maps.app.goo.gl/4WoMZ8Dnkw9k1TUK6",
   "list_id": "4EDQzL77O7_d2NFXQn0p4g",
-  "updated_at": "2026-05-25T12:21:48+00:00",
+  "updated_at": "2026-05-28T12:21:33+00:00",
   "places": [
+    {
+      "place_id": "/g/11hztb0l6t",
+      "name": "Sugar Miss tea&coffee",
+      "address": "5309 7th Ave, Brooklyn, NY 11220",
+      "borough": "Brooklyn",
+      "lat": 40.640383,
+      "lng": -74.00771,
+      "maps_url": "https://maps.google.com/?cid=7726260644610154259",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/11jndvvb1p",
       "name": "Débutea Brooklyn",
