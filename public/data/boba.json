@@ -3,8 +3,22 @@
   "slug": "boba",
   "source_url": "https://maps.app.goo.gl/4WoMZ8Dnkw9k1TUK6",
   "list_id": "4EDQzL77O7_d2NFXQn0p4g",
-  "updated_at": "2026-05-28T12:21:33+00:00",
+  "updated_at": "2026-05-29T12:10:58+00:00",
   "places": [
+    {
+      "place_id": "/g/11njxhf35c",
+      "name": "NaiSnow Tea and Bakery Brooklyn 86th Street",
+      "address": "2141 86th St, Brooklyn, NY 11214",
+      "borough": "Brooklyn",
+      "lat": 40.6029109,
+      "lng": -73.9948252,
+      "maps_url": "https://maps.google.com/?cid=12365149158640405102",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/11hztb0l6t",
       "name": "Sugar Miss tea&coffee",

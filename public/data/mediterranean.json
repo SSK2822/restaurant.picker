@@ -3,8 +3,22 @@
   "slug": "mediterranean",
   "source_url": "https://maps.app.goo.gl/szUK1dfZysYWpsen8",
   "list_id": "5EmA-1BtQ2KwvV2djJ43fw",
-  "updated_at": "2026-05-28T12:21:31+00:00",
+  "updated_at": "2026-05-29T12:10:57+00:00",
   "places": [
+    {
+      "place_id": "/g/11xyg29291",
+      "name": "The Gyro Project",
+      "address": "569 Lexington Ave, New York, NY 10022",
+      "borough": "Manhattan",
+      "lat": 40.756916499999996,
+      "lng": -73.9718646,
+      "maps_url": "https://maps.google.com/?cid=4517300289739136274",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/1vl5hq1x",
       "name": "Agnanti",

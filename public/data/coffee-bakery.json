@@ -3,8 +3,22 @@
   "slug": "coffee-bakery",
   "source_url": "https://maps.app.goo.gl/DynoFDRsNK2VxugC8",
   "list_id": "1ezCTBUP9DbqX5Y3VZYEcg",
-  "updated_at": "2026-05-23T10:23:28+00:00",
+  "updated_at": "2026-05-29T12:10:56+00:00",
   "places": [
+    {
+      "place_id": "/g/11yqg01rnv",
+      "name": "Diljān Bakery",
+      "address": "330 Hicks St, Brooklyn, NY 11201",
+      "borough": "Brooklyn",
+      "lat": 40.691531999999995,
+      "lng": -73.99788699999999,
+      "maps_url": "https://maps.google.com/?cid=16943158176352950641",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/11ry54fhxq",
       "name": "Tadaima",
