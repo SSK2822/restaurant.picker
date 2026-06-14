@@ -3,8 +3,36 @@
   "slug": "asian",
   "source_url": "https://maps.app.goo.gl/cXYHCLZWxsSfwm3MA",
   "list_id": "7Rn6uSmuW6h9QbXLywb0tg",
-  "updated_at": "2026-06-12T12:12:56+00:00",
+  "updated_at": "2026-06-14T11:25:41+00:00",
   "places": [
+    {
+      "place_id": "/g/11k4k34dq1",
+      "name": "Kebab aur Sharab",
+      "address": "247 W 72nd St, New York, NY 10023",
+      "borough": "Manhattan",
+      "lat": 40.7796082,
+      "lng": -73.98322259999999,
+      "maps_url": "https://maps.google.com/?cid=12712293523758910197",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
+    {
+      "place_id": "/g/11y4lkhvcy",
+      "name": "the AM-THAI Williamsburg",
+      "address": "225 S 1st St, Brooklyn, NY 11211, United States",
+      "borough": "Brooklyn",
+      "lat": 40.7130051,
+      "lng": -73.9589373,
+      "maps_url": "https://maps.google.com/?cid=16809727023069205963",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/11wxlw_j7f",
       "name": "TongDee Thai",

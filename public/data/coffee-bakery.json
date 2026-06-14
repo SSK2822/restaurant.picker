@@ -3,8 +3,22 @@
   "slug": "coffee-bakery",
   "source_url": "https://maps.app.goo.gl/DynoFDRsNK2VxugC8",
   "list_id": "1ezCTBUP9DbqX5Y3VZYEcg",
-  "updated_at": "2026-06-09T11:54:43+00:00",
+  "updated_at": "2026-06-14T11:25:40+00:00",
   "places": [
+    {
+      "place_id": "/g/11w1q5rdc9",
+      "name": "Tall Poppy",
+      "address": "156 W 20th St, New York, NY 10011",
+      "borough": "Manhattan",
+      "lat": 40.7418848,
+      "lng": -73.9964293,
+      "maps_url": "https://maps.google.com/?cid=15404649305120476924",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/11m5yrbmqj",
       "name": "Chipichape Cafe",
