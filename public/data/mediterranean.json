@@ -3,8 +3,22 @@
   "slug": "mediterranean",
   "source_url": "https://maps.app.goo.gl/szUK1dfZysYWpsen8",
   "list_id": "5EmA-1BtQ2KwvV2djJ43fw",
-  "updated_at": "2026-06-14T11:25:40+00:00",
+  "updated_at": "2026-06-15T14:59:39+00:00",
   "places": [
+    {
+      "place_id": "/g/11bz0wczbd",
+      "name": "B&B - Best of the Best (Halal Cart)",
+      "address": "46-9, 46-01 Queens Blvd, Sunnyside, NY 11104",
+      "borough": "Queens",
+      "lat": 40.7433459,
+      "lng": -73.9174772,
+      "maps_url": "https://maps.google.com/?cid=17725608481907812297",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/11sfc8ws4t",
       "name": "al Badawi",
