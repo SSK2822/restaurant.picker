@@ -3,8 +3,22 @@
   "slug": "coffee-bakery",
   "source_url": "https://maps.app.goo.gl/DynoFDRsNK2VxugC8",
   "list_id": "1ezCTBUP9DbqX5Y3VZYEcg",
-  "updated_at": "2026-06-14T11:25:40+00:00",
+  "updated_at": "2026-06-17T12:46:44+00:00",
   "places": [
+    {
+      "place_id": "/g/11ynl4j47n",
+      "name": "Bertoni Gelato",
+      "address": "303 Wythe Ave, Brooklyn, NY 11249",
+      "borough": "Brooklyn",
+      "lat": 40.714413,
+      "lng": -73.964805,
+      "maps_url": "https://maps.google.com/?cid=2533554931562837646",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/11w1q5rdc9",
       "name": "Tall Poppy",
