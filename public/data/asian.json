@@ -3,8 +3,22 @@
   "slug": "asian",
   "source_url": "https://maps.app.goo.gl/cXYHCLZWxsSfwm3MA",
   "list_id": "7Rn6uSmuW6h9QbXLywb0tg",
-  "updated_at": "2026-06-24T11:40:31+00:00",
+  "updated_at": "2026-06-25T11:34:50+00:00",
   "places": [
+    {
+      "place_id": "/g/1tmz7vpv",
+      "name": "Cafe Himalaya",
+      "address": "78 E 1st St, New York, NY 10009",
+      "borough": "Manhattan",
+      "lat": 40.7232018,
+      "lng": -73.9880239,
+      "maps_url": "https://maps.google.com/?cid=12233172910152475558",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/11wx9_sdb6",
       "name": "Unglo Thai Restaurant and Bar",
