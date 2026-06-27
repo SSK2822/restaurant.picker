@@ -3,8 +3,22 @@
   "slug": "coffee-bakery",
   "source_url": "https://maps.app.goo.gl/DynoFDRsNK2VxugC8",
   "list_id": "1ezCTBUP9DbqX5Y3VZYEcg",
-  "updated_at": "2026-06-21T11:40:18+00:00",
+  "updated_at": "2026-06-27T10:54:10+00:00",
   "places": [
+    {
+      "place_id": "/g/1v44fx0m",
+      "name": "Raaka Chocolate",
+      "address": "58 Seabring St, Brooklyn, NY 11231",
+      "borough": "Brooklyn",
+      "lat": 40.6811623,
+      "lng": -74.00712899999999,
+      "maps_url": "https://maps.google.com/?cid=6518848645848548032",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/1vg_86jp",
       "name": "The Chocolate Room",

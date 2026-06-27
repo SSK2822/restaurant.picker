@@ -3,8 +3,22 @@
   "slug": "boba",
   "source_url": "https://maps.app.goo.gl/4WoMZ8Dnkw9k1TUK6",
   "list_id": "4EDQzL77O7_d2NFXQn0p4g",
-  "updated_at": "2026-06-17T12:46:45+00:00",
+  "updated_at": "2026-06-27T10:54:12+00:00",
   "places": [
+    {
+      "place_id": "/g/11nq15z1t8",
+      "name": "Select by Kung Fu Tea",
+      "address": "73 Chrystie St, New York, NY 10002",
+      "borough": "Manhattan",
+      "lat": 40.7171525,
+      "lng": -73.9945936,
+      "maps_url": "https://maps.google.com/?cid=18208719068926658937",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/11w3xdw_93",
       "name": "Hey Yogurt",
