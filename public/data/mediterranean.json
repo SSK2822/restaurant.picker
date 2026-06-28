@@ -3,8 +3,36 @@
   "slug": "mediterranean",
   "source_url": "https://maps.app.goo.gl/szUK1dfZysYWpsen8",
   "list_id": "5EmA-1BtQ2KwvV2djJ43fw",
-  "updated_at": "2026-06-21T11:40:19+00:00",
+  "updated_at": "2026-06-28T11:01:23+00:00",
   "places": [
+    {
+      "place_id": "/g/11y9xtrnj6",
+      "name": "Alshaybani Restaurant",
+      "address": "7316 3rd Ave, Brooklyn, NY 11209",
+      "borough": "Brooklyn",
+      "lat": 40.6324657,
+      "lng": -74.027551,
+      "maps_url": "https://maps.google.com/?cid=1341902521468445191",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
+    {
+      "place_id": "/g/11qpkd7hbf",
+      "name": "Fire Kabob",
+      "address": "535 86th St, Brooklyn, NY 11209, United States",
+      "borough": "Brooklyn",
+      "lat": 40.621045699999996,
+      "lng": -74.0251442,
+      "maps_url": "https://maps.google.com/?cid=2878322885509456152",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/11l6qj433h",
       "name": "Taboonette (Brooklyn Heights)",
