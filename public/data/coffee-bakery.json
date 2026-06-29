@@ -3,8 +3,22 @@
   "slug": "coffee-bakery",
   "source_url": "https://maps.app.goo.gl/DynoFDRsNK2VxugC8",
   "list_id": "1ezCTBUP9DbqX5Y3VZYEcg",
-  "updated_at": "2026-06-27T10:54:10+00:00",
+  "updated_at": "2026-06-29T13:00:26+00:00",
   "places": [
+    {
+      "place_id": "/g/1tflblcc",
+      "name": "Madonia Bakery",
+      "address": "2348 Arthur Ave, Bronx, NY 10458, United States",
+      "borough": "Bronx",
+      "lat": 40.8544011,
+      "lng": -73.8883977,
+      "maps_url": "https://maps.google.com/?cid=9470421034051035404",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/1v44fx0m",
       "name": "Raaka Chocolate",

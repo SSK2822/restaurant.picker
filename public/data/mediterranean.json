@@ -3,8 +3,22 @@
   "slug": "mediterranean",
   "source_url": "https://maps.app.goo.gl/szUK1dfZysYWpsen8",
   "list_id": "5EmA-1BtQ2KwvV2djJ43fw",
-  "updated_at": "2026-06-28T11:01:23+00:00",
+  "updated_at": "2026-06-29T13:00:26+00:00",
   "places": [
+    {
+      "place_id": "/g/11vsw1bw1_",
+      "name": "Yemenat",
+      "address": "7721 5th Ave, Brooklyn, NY 11209, United States",
+      "borough": "Brooklyn",
+      "lat": 40.6273279,
+      "lng": -74.0233464,
+      "maps_url": "https://maps.google.com/?cid=1364013119868880540",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/11y9xtrnj6",
       "name": "Alshaybani Restaurant",
