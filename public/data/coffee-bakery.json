@@ -3,8 +3,22 @@
   "slug": "coffee-bakery",
   "source_url": "https://maps.app.goo.gl/DynoFDRsNK2VxugC8",
   "list_id": "1ezCTBUP9DbqX5Y3VZYEcg",
-  "updated_at": "2026-06-29T13:00:26+00:00",
+  "updated_at": "2026-07-02T11:28:13+00:00",
   "places": [
+    {
+      "place_id": "/g/11z9jc0p8d",
+      "name": "Hana Gelateria",
+      "address": "27-20 42nd Rd, Long Island City, NY 11101",
+      "borough": "Queens",
+      "lat": 40.749046199999995,
+      "lng": -73.9401675,
+      "maps_url": "https://maps.google.com/?cid=11959337415252296220",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/1tflblcc",
       "name": "Madonia Bakery",
