@@ -3,8 +3,36 @@
   "slug": "coffee-bakery",
   "source_url": "https://maps.app.goo.gl/DynoFDRsNK2VxugC8",
   "list_id": "1ezCTBUP9DbqX5Y3VZYEcg",
-  "updated_at": "2026-07-08T10:57:27+00:00",
+  "updated_at": "2026-07-10T11:44:45+00:00",
   "places": [
+    {
+      "place_id": "/g/11rc75sr6b",
+      "name": "Kora",
+      "address": "45-12 Greenpoint Ave, Sunnyside, NY 11104",
+      "borough": "Queens",
+      "lat": 40.7418841,
+      "lng": -73.9194207,
+      "maps_url": "https://maps.google.com/?cid=8345868815067263331",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
+    {
+      "place_id": "/g/1tdygjtd",
+      "name": "Little Cupcake Bakeshop",
+      "address": "9102 3rd Ave, Brooklyn, NY 11209",
+      "borough": "Brooklyn",
+      "lat": 40.619969999999995,
+      "lng": -74.032774,
+      "maps_url": "https://maps.google.com/?cid=16393843485648905727",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/11bv_dh6bg",
       "name": "Sweetleaf Coffee Roasters",

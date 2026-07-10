@@ -3,8 +3,22 @@
   "slug": "boba",
   "source_url": "https://maps.app.goo.gl/4WoMZ8Dnkw9k1TUK6",
   "list_id": "4EDQzL77O7_d2NFXQn0p4g",
-  "updated_at": "2026-06-27T10:54:12+00:00",
+  "updated_at": "2026-07-10T11:44:46+00:00",
   "places": [
+    {
+      "place_id": "/g/11vptfy0fz",
+      "name": "ERYE 二葉 Teashop",
+      "address": "11-08 44th Dr, Long Island City, NY 11101",
+      "borough": "Queens",
+      "lat": 40.7483165,
+      "lng": -73.9491235,
+      "maps_url": "https://maps.google.com/?cid=2571066816957004801",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/11nq15z1t8",
       "name": "Select by Kung Fu Tea",
