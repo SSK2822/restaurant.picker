@@ -3,8 +3,22 @@
   "slug": "mediterranean",
   "source_url": "https://maps.app.goo.gl/szUK1dfZysYWpsen8",
   "list_id": "5EmA-1BtQ2KwvV2djJ43fw",
-  "updated_at": "2026-07-10T11:44:45+00:00",
+  "updated_at": "2026-07-12T10:22:37+00:00",
   "places": [
+    {
+      "place_id": "/g/1thl1sgz",
+      "name": "Ravagh Persian Grill",
+      "address": "173 Madison Ave, New York, NY 10016",
+      "borough": "Manhattan",
+      "lat": 40.747255599999995,
+      "lng": -73.9831166,
+      "maps_url": "https://maps.google.com/?cid=17104859355665855324",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "fid:-8520171380264194767:4071586852704915090",
       "name": "Karam Restaurant",

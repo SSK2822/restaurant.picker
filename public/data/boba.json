@@ -3,8 +3,22 @@
   "slug": "boba",
   "source_url": "https://maps.app.goo.gl/4WoMZ8Dnkw9k1TUK6",
   "list_id": "4EDQzL77O7_d2NFXQn0p4g",
-  "updated_at": "2026-07-10T11:44:46+00:00",
+  "updated_at": "2026-07-12T10:22:38+00:00",
   "places": [
+    {
+      "place_id": "/g/11y12hb8fx",
+      "name": "NaiSnow Tea and Bakery (Columbia University）",
+      "address": "971 Amsterdam Ave, New York, NY 10025",
+      "borough": "Manhattan",
+      "lat": 40.8014114,
+      "lng": -73.964653,
+      "maps_url": "https://maps.google.com/?cid=11845524792598301096",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/11vptfy0fz",
       "name": "ERYE 二葉 Teashop",
