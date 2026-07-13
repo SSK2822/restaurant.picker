@@ -3,8 +3,22 @@
   "slug": "mediterranean",
   "source_url": "https://maps.app.goo.gl/szUK1dfZysYWpsen8",
   "list_id": "5EmA-1BtQ2KwvV2djJ43fw",
-  "updated_at": "2026-07-12T10:22:37+00:00",
+  "updated_at": "2026-07-13T11:54:59+00:00",
   "places": [
+    {
+      "place_id": "/g/1vkxn5lw",
+      "name": "Miriam Restaurant",
+      "address": "79 5th Ave, Brooklyn, NY 11217",
+      "borough": "Brooklyn",
+      "lat": 40.680158,
+      "lng": -73.9777381,
+      "maps_url": "https://maps.google.com/?cid=10864398179322480334",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/1thl1sgz",
       "name": "Ravagh Persian Grill",
