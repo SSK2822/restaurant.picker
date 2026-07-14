@@ -3,8 +3,36 @@
   "slug": "asian",
   "source_url": "https://maps.app.goo.gl/cXYHCLZWxsSfwm3MA",
   "list_id": "7Rn6uSmuW6h9QbXLywb0tg",
-  "updated_at": "2026-07-12T10:22:37+00:00",
+  "updated_at": "2026-07-14T10:39:34+00:00",
   "places": [
+    {
+      "place_id": "/g/11lh6j1whh",
+      "name": "The Dolar Shop Hot Pot Manhattan",
+      "address": "55 3rd Ave, New York, NY 10003",
+      "borough": "Manhattan",
+      "lat": 40.7310965,
+      "lng": -73.9885079,
+      "maps_url": "https://maps.google.com/?cid=10961231163429798436",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
+    {
+      "place_id": "/g/11c56cgphb",
+      "name": "SUGARFISH by sushi nozawa",
+      "address": "33 E 20th St, New York, NY 10003",
+      "borough": "Manhattan",
+      "lat": 40.739009599999996,
+      "lng": -73.9888227,
+      "maps_url": "https://maps.google.com/?cid=7999305533994836804",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/11q9p91l1f",
       "name": "Little Grenjai",
