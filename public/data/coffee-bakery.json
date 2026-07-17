@@ -3,8 +3,36 @@
   "slug": "coffee-bakery",
   "source_url": "https://maps.app.goo.gl/DynoFDRsNK2VxugC8",
   "list_id": "1ezCTBUP9DbqX5Y3VZYEcg",
-  "updated_at": "2026-07-14T10:39:33+00:00",
+  "updated_at": "2026-07-17T10:40:12+00:00",
   "places": [
+    {
+      "place_id": "/g/11rdc67pz_",
+      "name": "Dell'Aria - Italian Love for Coffee",
+      "address": "232 E 111th St, New York, NY 10029",
+      "borough": "Manhattan",
+      "lat": 40.7939874,
+      "lng": -73.9411026,
+      "maps_url": "https://maps.google.com/?cid=263821839034762557",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
+    {
+      "place_id": "/g/1wg5yy30",
+      "name": "Lloyd's Carrot Cake Café",
+      "address": "1565 Lexington Ave, New York, NY 10029",
+      "borough": "Manhattan",
+      "lat": 40.7882341,
+      "lng": -73.94890939999999,
+      "maps_url": "https://maps.google.com/?cid=4529554507822232036",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/m/03gy_f3",
       "name": "Veniero's Pasticceria & Caffe",
