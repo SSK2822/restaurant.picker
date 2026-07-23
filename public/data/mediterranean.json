@@ -3,8 +3,36 @@
   "slug": "mediterranean",
   "source_url": "https://maps.app.goo.gl/szUK1dfZysYWpsen8",
   "list_id": "5EmA-1BtQ2KwvV2djJ43fw",
-  "updated_at": "2026-07-20T11:38:24+00:00",
+  "updated_at": "2026-07-23T11:03:24+00:00",
   "places": [
+    {
+      "place_id": "/g/1td2_c8m",
+      "name": "Tanoreen",
+      "address": "7523 3rd Ave, Brooklyn, NY 11209",
+      "borough": "Brooklyn",
+      "lat": 40.630791599999995,
+      "lng": -74.02778649999999,
+      "maps_url": "https://maps.google.com/?cid=1759909888645642112",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
+    {
+      "place_id": "/g/1xpwkp_t",
+      "name": "Bedawi Cafe",
+      "address": "266 Prospect Park W, Brooklyn, NY 11215",
+      "borough": "Brooklyn",
+      "lat": 40.6586321,
+      "lng": -73.9821995,
+      "maps_url": "https://maps.google.com/?cid=998418484154774938",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "fid:-8520143031584508571:9147688814591850019",
       "name": "The Kasbah Café",
