@@ -3,8 +3,22 @@
   "slug": "coffee-bakery",
   "source_url": "https://maps.app.goo.gl/DynoFDRsNK2VxugC8",
   "list_id": "1ezCTBUP9DbqX5Y3VZYEcg",
-  "updated_at": "2026-07-20T11:38:24+00:00",
+  "updated_at": "2026-07-25T10:22:00+00:00",
   "places": [
+    {
+      "place_id": "/g/11w8jy1k3b",
+      "name": "Hani’s bakery + café",
+      "address": "67 Cooper Sq, New York, NY 10003",
+      "borough": "Manhattan",
+      "lat": 40.7291226,
+      "lng": -73.98995289999999,
+      "maps_url": "https://maps.google.com/?cid=2506849848621476378",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "fid:-8520142957011895707:9112361849640017487",
       "name": "Elio's",
