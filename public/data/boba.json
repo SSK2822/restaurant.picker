@@ -3,8 +3,22 @@
   "slug": "boba",
   "source_url": "https://maps.app.goo.gl/4WoMZ8Dnkw9k1TUK6",
   "list_id": "4EDQzL77O7_d2NFXQn0p4g",
-  "updated_at": "2026-07-27T12:14:29+00:00",
+  "updated_at": "2026-07-28T11:10:34+00:00",
   "places": [
+    {
+      "place_id": "/g/11grtz45gv",
+      "name": "Yaya Tea Elmhurst",
+      "address": "86-12 Whitney Ave, Elmhurst, NY 11373",
+      "borough": "Queens",
+      "lat": 40.7417892,
+      "lng": -73.87853369999999,
+      "maps_url": "https://maps.google.com/?cid=3457361813904531917",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/11h6rxv0hk",
       "name": "Yi Fang Taiwan Fruit Tea",

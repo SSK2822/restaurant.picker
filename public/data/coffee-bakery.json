@@ -3,8 +3,22 @@
   "slug": "coffee-bakery",
   "source_url": "https://maps.app.goo.gl/DynoFDRsNK2VxugC8",
   "list_id": "1ezCTBUP9DbqX5Y3VZYEcg",
-  "updated_at": "2026-07-27T12:14:28+00:00",
+  "updated_at": "2026-07-28T11:10:32+00:00",
   "places": [
+    {
+      "place_id": "/g/1tj7fzsh",
+      "name": "Eddie's Sweet Shop",
+      "address": "105-29 Metropolitan Ave #1, Flushing, NY 11375",
+      "borough": "Queens",
+      "lat": 40.7100192,
+      "lng": -73.8473261,
+      "maps_url": "https://maps.google.com/?cid=11480259905189510463",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/11txnffd8m",
       "name": "Spot Dessert Bar Long Island City",
