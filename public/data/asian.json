@@ -3,8 +3,22 @@
   "slug": "asian",
   "source_url": "https://maps.app.goo.gl/cXYHCLZWxsSfwm3MA",
   "list_id": "7Rn6uSmuW6h9QbXLywb0tg",
-  "updated_at": "2026-07-28T11:10:33+00:00",
+  "updated_at": "2026-07-29T11:16:58+00:00",
   "places": [
+    {
+      "place_id": "/g/1260wcdr3",
+      "name": "Chola",
+      "address": "232 E 58th St, New York, NY 10022, United States",
+      "borough": "Manhattan",
+      "lat": 40.760247,
+      "lng": -73.9657651,
+      "maps_url": "https://maps.google.com/?cid=5405559575204719504",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/1hcb009zt",
       "name": "Happy Lamb Hot Pot, Flushing 快乐小羊",
