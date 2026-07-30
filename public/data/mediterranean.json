@@ -3,8 +3,22 @@
   "slug": "mediterranean",
   "source_url": "https://maps.app.goo.gl/szUK1dfZysYWpsen8",
   "list_id": "5EmA-1BtQ2KwvV2djJ43fw",
-  "updated_at": "2026-07-28T11:10:32+00:00",
+  "updated_at": "2026-07-30T11:00:18+00:00",
   "places": [
+    {
+      "place_id": "/g/11j0t93__m",
+      "name": "Merguez and Frites",
+      "address": "40-06 25th Ave, Astoria, NY 11103",
+      "borough": "Queens",
+      "lat": 40.767725299999995,
+      "lng": -73.9114869,
+      "maps_url": "https://maps.google.com/?cid=9469018381347820502",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/11lghxc8dq",
       "name": "Mum Feteer فطير",
