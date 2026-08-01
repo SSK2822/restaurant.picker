@@ -3,7 +3,7 @@
   "slug": "boba",
   "source_url": "https://maps.app.goo.gl/4WoMZ8Dnkw9k1TUK6",
   "list_id": "4EDQzL77O7_d2NFXQn0p4g",
-  "updated_at": "2026-07-30T11:00:19+00:00",
+  "updated_at": "2026-08-01T10:28:40+00:00",
   "places": [
     {
       "place_id": "/g/11zk7yt19h",
@@ -461,20 +461,6 @@
       "lat": 40.7646496,
       "lng": -73.9847727,
       "maps_url": "https://maps.google.com/?cid=8089351260994886347",
-      "rating": null,
-      "reviews": null,
-      "cuisine": "",
-      "price_level": "",
-      "photo_url": null
-    },
-    {
-      "place_id": "fid:-8520170580144726785:6471254525621069370",
-      "name": "JOOY TEA SHOPPE (BROOKLYN 60ST)",
-      "address": "",
-      "borough": "",
-      "lat": 40.6353849,
-      "lng": -74.0098897,
-      "maps_url": "https://maps.google.com/?cid=6471254525621069370",
       "rating": null,
       "reviews": null,
       "cuisine": "",
