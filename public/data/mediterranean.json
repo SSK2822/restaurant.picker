@@ -3,8 +3,22 @@
   "slug": "mediterranean",
   "source_url": "https://maps.app.goo.gl/szUK1dfZysYWpsen8",
   "list_id": "5EmA-1BtQ2KwvV2djJ43fw",
-  "updated_at": "2026-08-01T10:28:39+00:00",
+  "updated_at": "2026-08-03T12:14:58+00:00",
   "places": [
+    {
+      "place_id": "/g/11vdqq4by6",
+      "name": "Theodora",
+      "address": "7 Greene Ave, Brooklyn, NY 11238",
+      "borough": "Brooklyn",
+      "lat": 40.6860126,
+      "lng": -73.97310039999999,
+      "maps_url": "https://maps.google.com/?cid=9804598409473043126",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/1tm8lhw1",
       "name": "Balkh Shish Kabab House",

@@ -3,8 +3,22 @@
   "slug": "boba",
   "source_url": "https://maps.app.goo.gl/4WoMZ8Dnkw9k1TUK6",
   "list_id": "4EDQzL77O7_d2NFXQn0p4g",
-  "updated_at": "2026-08-01T10:28:40+00:00",
+  "updated_at": "2026-08-03T12:14:59+00:00",
   "places": [
+    {
+      "place_id": "/g/11zk12d_8r",
+      "name": "CHOJI",
+      "address": "46 E 8th St, New York, NY 10003, United States",
+      "borough": "Manhattan",
+      "lat": 40.7311282,
+      "lng": -73.99395109999999,
+      "maps_url": "https://maps.google.com/?cid=9110370953618204414",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/11zk7yt19h",
       "name": "Taning Lemon Tea 挞柠手打柠檬茶 BK",
