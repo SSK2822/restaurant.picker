@@ -3,8 +3,36 @@
   "slug": "coffee-bakery",
   "source_url": "https://maps.app.goo.gl/DynoFDRsNK2VxugC8",
   "list_id": "1ezCTBUP9DbqX5Y3VZYEcg",
-  "updated_at": "2026-08-02T10:27:50+00:00",
+  "updated_at": "2026-08-05T11:13:52+00:00",
   "places": [
+    {
+      "place_id": "/g/11yqrstywk",
+      "name": "Richaud Petite Bakery",
+      "address": "41 Perry St, New York, NY 10014",
+      "borough": "Manhattan",
+      "lat": 40.7357989,
+      "lng": -74.0028446,
+      "maps_url": "https://maps.google.com/?cid=5608029192444124011",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
+    {
+      "place_id": "/g/11zbs9xv_w",
+      "name": "Nepita",
+      "address": "15 8th Ave, New York, NY 10014",
+      "borough": "Manhattan",
+      "lat": 40.737784,
+      "lng": -74.0048537,
+      "maps_url": "https://maps.google.com/?cid=12669529502768718098",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/11b6g86wrp",
       "name": "Peter Pan Donut & Pastry Shop",

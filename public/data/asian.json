@@ -3,8 +3,36 @@
   "slug": "asian",
   "source_url": "https://maps.app.goo.gl/cXYHCLZWxsSfwm3MA",
   "list_id": "7Rn6uSmuW6h9QbXLywb0tg",
-  "updated_at": "2026-08-03T12:14:58+00:00",
+  "updated_at": "2026-08-05T11:13:54+00:00",
   "places": [
+    {
+      "place_id": "/g/11zd2q8y1m",
+      "name": "Burmese Bites",
+      "address": "38-01 31st Ave, Astoria, NY 11103",
+      "borough": "Queens",
+      "lat": 40.761785499999995,
+      "lng": -73.9175885,
+      "maps_url": "https://maps.google.com/?cid=7384694681367252717",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
+    {
+      "place_id": "/g/11zctt0gh0",
+      "name": "THAI NIYOM",
+      "address": "30-78 Steinway St, Astoria, NY 11103",
+      "borough": "Queens",
+      "lat": 40.7620542,
+      "lng": -73.9168601,
+      "maps_url": "https://maps.google.com/?cid=16714316458214697654",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/11rj3yslrx",
       "name": "Lao Ma Spicy",
