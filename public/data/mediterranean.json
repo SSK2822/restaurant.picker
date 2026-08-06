@@ -3,8 +3,22 @@
   "slug": "mediterranean",
   "source_url": "https://maps.app.goo.gl/szUK1dfZysYWpsen8",
   "list_id": "5EmA-1BtQ2KwvV2djJ43fw",
-  "updated_at": "2026-08-03T12:14:58+00:00",
+  "updated_at": "2026-08-06T11:14:00+00:00",
   "places": [
+    {
+      "place_id": "/g/11h_4k26fm",
+      "name": "Shukette",
+      "address": "230 9th Ave, New York, NY 10001",
+      "borough": "Manhattan",
+      "lat": 40.747154599999995,
+      "lng": -74.0005218,
+      "maps_url": "https://maps.google.com/?cid=12186516540852036484",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/11vdqq4by6",
       "name": "Theodora",

@@ -3,8 +3,22 @@
   "slug": "coffee-bakery",
   "source_url": "https://maps.app.goo.gl/DynoFDRsNK2VxugC8",
   "list_id": "1ezCTBUP9DbqX5Y3VZYEcg",
-  "updated_at": "2026-08-05T11:13:52+00:00",
+  "updated_at": "2026-08-06T11:14:00+00:00",
   "places": [
+    {
+      "place_id": "/g/11nqbm1zh0",
+      "name": "Kostantina Frozen Yogurt",
+      "address": "72-38 Austin St, Forest Hills, NY 11375",
+      "borough": "Queens",
+      "lat": 40.718674799999995,
+      "lng": -73.8415232,
+      "maps_url": "https://maps.google.com/?cid=14254980324178244265",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/11yqrstywk",
       "name": "Richaud Petite Bakery",

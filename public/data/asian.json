@@ -3,8 +3,36 @@
   "slug": "asian",
   "source_url": "https://maps.app.goo.gl/cXYHCLZWxsSfwm3MA",
   "list_id": "7Rn6uSmuW6h9QbXLywb0tg",
-  "updated_at": "2026-08-05T11:13:54+00:00",
+  "updated_at": "2026-08-06T11:14:01+00:00",
   "places": [
+    {
+      "place_id": "/g/11n4tgckfx",
+      "name": "No Last Names",
+      "address": "57 Front St, Brooklyn, NY 11201",
+      "borough": "Brooklyn",
+      "lat": 40.7026633,
+      "lng": -73.9911659,
+      "maps_url": "https://maps.google.com/?cid=14777519074235078407",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
+    {
+      "place_id": "/g/11z92t1h13",
+      "name": "Echoes Of Siam",
+      "address": "1099 1st Ave, New York, NY 10065, United States",
+      "borough": "Manhattan",
+      "lat": 40.7604259,
+      "lng": -73.9616163,
+      "maps_url": "https://maps.google.com/?cid=14912884371210080397",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/11zd2q8y1m",
       "name": "Burmese Bites",
