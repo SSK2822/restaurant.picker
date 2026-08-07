@@ -3,8 +3,36 @@
   "slug": "mediterranean",
   "source_url": "https://maps.app.goo.gl/szUK1dfZysYWpsen8",
   "list_id": "5EmA-1BtQ2KwvV2djJ43fw",
-  "updated_at": "2026-08-06T11:14:00+00:00",
+  "updated_at": "2026-08-07T09:53:51+00:00",
   "places": [
+    {
+      "place_id": "/g/1tmxggqp",
+      "name": "Deniz",
+      "address": "662 Fulton St, Brooklyn, NY 11217, United States",
+      "borough": "Brooklyn",
+      "lat": 40.686656,
+      "lng": -73.97568,
+      "maps_url": "https://maps.google.com/?cid=9362287492259894724",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
+    {
+      "place_id": "/g/11v9v6m720",
+      "name": "The Grape Leaf",
+      "address": "404 Court St, Brooklyn, NY 11231",
+      "borough": "Brooklyn",
+      "lat": 40.6805862,
+      "lng": -73.9969271,
+      "maps_url": "https://maps.google.com/?cid=6273231509603889970",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/11h_4k26fm",
       "name": "Shukette",

@@ -3,8 +3,22 @@
   "slug": "coffee-bakery",
   "source_url": "https://maps.app.goo.gl/DynoFDRsNK2VxugC8",
   "list_id": "1ezCTBUP9DbqX5Y3VZYEcg",
-  "updated_at": "2026-08-06T11:14:00+00:00",
+  "updated_at": "2026-08-07T09:53:51+00:00",
   "places": [
+    {
+      "place_id": "/g/11lth5g51f",
+      "name": "Masa Madre",
+      "address": "47-55 46th St, Woodside, NY 11377",
+      "borough": "Queens",
+      "lat": 40.7395755,
+      "lng": -73.9193042,
+      "maps_url": "https://maps.google.com/?cid=14989749569333675930",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/11nqbm1zh0",
       "name": "Kostantina Frozen Yogurt",
