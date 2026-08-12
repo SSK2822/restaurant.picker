@@ -3,8 +3,36 @@
   "slug": "mediterranean",
   "source_url": "https://maps.app.goo.gl/szUK1dfZysYWpsen8",
   "list_id": "5EmA-1BtQ2KwvV2djJ43fw",
-  "updated_at": "2026-08-10T10:10:38+00:00",
+  "updated_at": "2026-08-12T09:55:13+00:00",
   "places": [
+    {
+      "place_id": "/g/1tfj425d",
+      "name": "12 Chairs Cafe",
+      "address": "56 MacDougal St, New York, NY 10012, United States",
+      "borough": "Manhattan",
+      "lat": 40.727531899999995,
+      "lng": -74.0022899,
+      "maps_url": "https://maps.google.com/?cid=5744765159841533437",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
+    {
+      "place_id": "/g/11zb7gzhzw",
+      "name": "Zara Austin - Mediterranean Restaurant",
+      "address": "70-00 Austin St, Forest Hills, NY 11375",
+      "borough": "Queens",
+      "lat": 40.7210536,
+      "lng": -73.8473953,
+      "maps_url": "https://maps.google.com/?cid=16341918763049677963",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/1w9y202b",
       "name": "Elias Corner",
