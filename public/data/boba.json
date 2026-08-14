@@ -3,8 +3,22 @@
   "slug": "boba",
   "source_url": "https://maps.app.goo.gl/4WoMZ8Dnkw9k1TUK6",
   "list_id": "4EDQzL77O7_d2NFXQn0p4g",
-  "updated_at": "2026-08-03T12:14:59+00:00",
+  "updated_at": "2026-08-14T09:53:11+00:00",
   "places": [
+    {
+      "place_id": "/g/11z7bn6sbd",
+      "name": "heytea teabar",
+      "address": "126 East 86th St, New York, NY 10028",
+      "borough": "Manhattan",
+      "lat": 40.7794854,
+      "lng": -73.95614189999999,
+      "maps_url": "https://maps.google.com/?cid=4831340097035358087",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/11zk12d_8r",
       "name": "CHOJI",
