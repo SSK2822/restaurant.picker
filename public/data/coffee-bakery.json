@@ -3,8 +3,36 @@
   "slug": "coffee-bakery",
   "source_url": "https://maps.app.goo.gl/DynoFDRsNK2VxugC8",
   "list_id": "1ezCTBUP9DbqX5Y3VZYEcg",
-  "updated_at": "2026-08-17T09:33:31+00:00",
+  "updated_at": "2026-08-18T09:24:34+00:00",
   "places": [
+    {
+      "place_id": "/g/11nv0ls7m5",
+      "name": "Cafe Truffle & Co.",
+      "address": "25-38 Astoria Blvd, Long Island City, NY 11102",
+      "borough": "Queens",
+      "lat": 40.770793399999995,
+      "lng": -73.9216722,
+      "maps_url": "https://maps.google.com/?cid=7314233810240187013",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
+    {
+      "place_id": "/g/11x046ny5t",
+      "name": "Mister Cheeks",
+      "address": "347 Court St, Brooklyn, NY 11231",
+      "borough": "Brooklyn",
+      "lat": 40.6821722,
+      "lng": -73.9958449,
+      "maps_url": "https://maps.google.com/?cid=12914888941172055033",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/11w4qlylc7",
       "name": "Heap's Ice Cream",
