@@ -3,8 +3,22 @@
   "slug": "asian",
   "source_url": "https://maps.app.goo.gl/cXYHCLZWxsSfwm3MA",
   "list_id": "7Rn6uSmuW6h9QbXLywb0tg",
-  "updated_at": "2026-08-17T09:33:32+00:00",
+  "updated_at": "2026-08-20T09:25:56+00:00",
   "places": [
+    {
+      "place_id": "/g/11rqfg0gv8",
+      "name": "LumLum",
+      "address": "404 W 49th St, New York, NY 10019",
+      "borough": "Manhattan",
+      "lat": 40.7629273,
+      "lng": -73.9898403,
+      "maps_url": "https://maps.google.com/?cid=15882683248429202823",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/11h0lj7mx1",
       "name": "Empyrean Indian Kitchen & Bar",
