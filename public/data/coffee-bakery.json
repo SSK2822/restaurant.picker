@@ -3,8 +3,22 @@
   "slug": "coffee-bakery",
   "source_url": "https://maps.app.goo.gl/DynoFDRsNK2VxugC8",
   "list_id": "1ezCTBUP9DbqX5Y3VZYEcg",
-  "updated_at": "2026-08-21T09:28:18+00:00",
+  "updated_at": "2026-08-22T09:19:41+00:00",
   "places": [
+    {
+      "place_id": "/g/11vwjxzr4l",
+      "name": "GOGOJANG CAFE",
+      "address": "150 W 55th St Frnt 1A, New York, NY 10019",
+      "borough": "Manhattan",
+      "lat": 40.763687499999996,
+      "lng": -73.9802103,
+      "maps_url": "https://maps.google.com/?cid=405616623314193187",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/11h3vc1gtj",
       "name": "Cookie Crumz",
