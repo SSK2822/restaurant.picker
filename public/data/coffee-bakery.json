@@ -3,8 +3,36 @@
   "slug": "coffee-bakery",
   "source_url": "https://maps.app.goo.gl/DynoFDRsNK2VxugC8",
   "list_id": "1ezCTBUP9DbqX5Y3VZYEcg",
-  "updated_at": "2026-08-22T09:19:41+00:00",
+  "updated_at": "2026-08-24T09:38:52+00:00",
   "places": [
+    {
+      "place_id": "/g/11z5ywss1r",
+      "name": "Nook Coffee",
+      "address": "33-10 31st Ave, Astoria, NY 11106",
+      "borough": "Queens",
+      "lat": 40.7632207,
+      "lng": -73.9216108,
+      "maps_url": "https://maps.google.com/?cid=18367640603019302048",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
+    {
+      "place_id": "/g/11t4z70xbj",
+      "name": "Vela Juice Bar",
+      "address": "14-42 27th Ave, Astoria, NY 11102",
+      "borough": "Queens",
+      "lat": 40.7727955,
+      "lng": -73.9275718,
+      "maps_url": "https://maps.google.com/?cid=2103433478080523839",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/11vwjxzr4l",
       "name": "GOGOJANG CAFE",
