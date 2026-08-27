@@ -3,8 +3,22 @@
   "slug": "mediterranean",
   "source_url": "https://maps.app.goo.gl/szUK1dfZysYWpsen8",
   "list_id": "5EmA-1BtQ2KwvV2djJ43fw",
-  "updated_at": "2026-08-26T09:33:11+00:00",
+  "updated_at": "2026-08-27T19:21:42+00:00",
   "places": [
+    {
+      "place_id": "/g/1vgw9jxg",
+      "name": "ilili NoMad",
+      "address": "236 5th Ave, New York, NY 10001",
+      "borough": "Manhattan",
+      "lat": 40.7443856,
+      "lng": -73.9877581,
+      "maps_url": "https://maps.google.com/?cid=12713896461746321794",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/11cn5pygqg",
       "name": "Balade Your Way",

@@ -3,8 +3,36 @@
   "slug": "asian",
   "source_url": "https://maps.app.goo.gl/cXYHCLZWxsSfwm3MA",
   "list_id": "7Rn6uSmuW6h9QbXLywb0tg",
-  "updated_at": "2026-08-24T09:38:54+00:00",
+  "updated_at": "2026-08-27T19:21:43+00:00",
   "places": [
+    {
+      "place_id": "/g/1tfgf4n8",
+      "name": "OK Ryan",
+      "address": "41-04 College Point Blvd, Flushing, NY 11355",
+      "borough": "Queens",
+      "lat": 40.755982599999996,
+      "lng": -73.8338327,
+      "maps_url": "https://maps.google.com/?cid=1103616744303395893",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
+    {
+      "place_id": "/g/11f3shlnj6",
+      "name": "South of the Clouds 云之南 Greenwich Village",
+      "address": "16 W 8th St, New York, NY 10011",
+      "borough": "Manhattan",
+      "lat": 40.7326032,
+      "lng": -73.997424,
+      "maps_url": "https://maps.google.com/?cid=15642939993430021057",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/11z1y_g009",
       "name": "Gangjong Thunpa Phunshi",
