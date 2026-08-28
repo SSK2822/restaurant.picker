@@ -3,8 +3,22 @@
   "slug": "coffee-bakery",
   "source_url": "https://maps.app.goo.gl/DynoFDRsNK2VxugC8",
   "list_id": "1ezCTBUP9DbqX5Y3VZYEcg",
-  "updated_at": "2026-08-24T09:38:52+00:00",
+  "updated_at": "2026-08-28T20:33:57+00:00",
   "places": [
+    {
+      "place_id": "/g/11cl_kyq97",
+      "name": "Café Patoro",
+      "address": "223 Front St, New York, NY 10038",
+      "borough": "Manhattan",
+      "lat": 40.707366,
+      "lng": -74.002252,
+      "maps_url": "https://maps.google.com/?cid=1502007162087527622",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/11z5ywss1r",
       "name": "Nook Coffee",
