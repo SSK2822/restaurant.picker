@@ -3,8 +3,22 @@
   "slug": "coffee-bakery",
   "source_url": "https://maps.app.goo.gl/DynoFDRsNK2VxugC8",
   "list_id": "1ezCTBUP9DbqX5Y3VZYEcg",
-  "updated_at": "2026-08-28T20:33:57+00:00",
+  "updated_at": "2026-08-30T14:12:03+00:00",
   "places": [
+    {
+      "place_id": "/g/1jkwm6hgg",
+      "name": "L'Albero Dei Gelati",
+      "address": "341 5th Ave, Brooklyn, NY 11215",
+      "borough": "Brooklyn",
+      "lat": 40.6719314,
+      "lng": -73.9836782,
+      "maps_url": "https://maps.google.com/?cid=873495157493413127",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/11cl_kyq97",
       "name": "Café Patoro",
