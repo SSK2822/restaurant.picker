@@ -3,8 +3,36 @@
   "slug": "asian",
   "source_url": "https://maps.app.goo.gl/cXYHCLZWxsSfwm3MA",
   "list_id": "7Rn6uSmuW6h9QbXLywb0tg",
-  "updated_at": "2026-08-31T16:35:32+00:00",
+  "updated_at": "2026-09-01T13:50:31+00:00",
   "places": [
+    {
+      "place_id": "/g/11jnv219mq",
+      "name": "One More Charm Thai Restaurant",
+      "address": "236 7th Ave #6, Brooklyn, NY 11215",
+      "borough": "Brooklyn",
+      "lat": 40.6698871,
+      "lng": -73.9794273,
+      "maps_url": "https://maps.google.com/?cid=11653887412972201006",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
+    {
+      "place_id": "/g/11fnwb2ktv",
+      "name": "Authentic Szechuan",
+      "address": "384 5th Ave, Brooklyn, NY 11215",
+      "borough": "Brooklyn",
+      "lat": 40.671172399999996,
+      "lng": -73.9848757,
+      "maps_url": "https://maps.google.com/?cid=16537575175136506938",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/1ts1t48n",
       "name": "Big Wong",
