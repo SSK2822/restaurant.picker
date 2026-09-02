@@ -3,8 +3,36 @@
   "slug": "asian",
   "source_url": "https://maps.app.goo.gl/cXYHCLZWxsSfwm3MA",
   "list_id": "7Rn6uSmuW6h9QbXLywb0tg",
-  "updated_at": "2026-09-01T13:50:31+00:00",
+  "updated_at": "2026-09-02T13:08:03+00:00",
   "places": [
+    {
+      "place_id": "/g/11yql2zh0v",
+      "name": "Malvan",
+      "address": "550 Court St, Brooklyn, NY 11231",
+      "borough": "Brooklyn",
+      "lat": 40.6750723,
+      "lng": -73.9996534,
+      "maps_url": "https://maps.google.com/?cid=3534126207996812520",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
+    {
+      "place_id": "/g/11lfqxrngt",
+      "name": "Mughlai Grill",
+      "address": "6 Clinton St, New York, NY 10002",
+      "borough": "Manhattan",
+      "lat": 40.7210336,
+      "lng": -73.9838523,
+      "maps_url": "https://maps.google.com/?cid=7598448109882937158",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/11jnv219mq",
       "name": "One More Charm Thai Restaurant",

@@ -3,8 +3,22 @@
   "slug": "coffee-bakery",
   "source_url": "https://maps.app.goo.gl/DynoFDRsNK2VxugC8",
   "list_id": "1ezCTBUP9DbqX5Y3VZYEcg",
-  "updated_at": "2026-09-01T13:50:30+00:00",
+  "updated_at": "2026-09-02T13:08:02+00:00",
   "places": [
+    {
+      "place_id": "/g/11xzrk4jg4",
+      "name": "First Cup Cafe",
+      "address": "29-01 36th Ave, Astoria, NY 11106",
+      "borough": "Queens",
+      "lat": 40.7573833,
+      "lng": -73.9311554,
+      "maps_url": "https://maps.google.com/?cid=18174970989879596245",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/11zf76rs62",
       "name": "FIRST HAUS",
