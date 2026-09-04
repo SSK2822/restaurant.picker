@@ -3,8 +3,22 @@
   "slug": "asian",
   "source_url": "https://maps.app.goo.gl/cXYHCLZWxsSfwm3MA",
   "list_id": "7Rn6uSmuW6h9QbXLywb0tg",
-  "updated_at": "2026-09-02T13:08:03+00:00",
+  "updated_at": "2026-09-04T13:03:05+00:00",
   "places": [
+    {
+      "place_id": "/g/11tj0rcnkk",
+      "name": "Red Onion Royal Kitchen To Table",
+      "address": "277 E 10th St, New York, NY 10009",
+      "borough": "Manhattan",
+      "lat": 40.7282948,
+      "lng": -73.9827044,
+      "maps_url": "https://maps.google.com/?cid=7943767087294418369",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/11yql2zh0v",
       "name": "Malvan",

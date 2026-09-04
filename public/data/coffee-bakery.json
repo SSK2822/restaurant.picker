@@ -3,8 +3,22 @@
   "slug": "coffee-bakery",
   "source_url": "https://maps.app.goo.gl/DynoFDRsNK2VxugC8",
   "list_id": "1ezCTBUP9DbqX5Y3VZYEcg",
-  "updated_at": "2026-09-02T13:08:02+00:00",
+  "updated_at": "2026-09-04T13:03:04+00:00",
   "places": [
+    {
+      "place_id": "/g/11vy515fz1",
+      "name": "The Bakery Room",
+      "address": "122 E 55th St, New York, NY 10022",
+      "borough": "Manhattan",
+      "lat": 40.759747399999995,
+      "lng": -73.97088389999999,
+      "maps_url": "https://maps.google.com/?cid=14637537567084808327",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/11xzrk4jg4",
       "name": "First Cup Cafe",
