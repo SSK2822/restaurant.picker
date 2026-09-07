@@ -3,8 +3,22 @@
   "slug": "mediterranean",
   "source_url": "https://maps.app.goo.gl/szUK1dfZysYWpsen8",
   "list_id": "5EmA-1BtQ2KwvV2djJ43fw",
-  "updated_at": "2026-08-30T14:12:03+00:00",
+  "updated_at": "2026-09-07T14:39:30+00:00",
   "places": [
+    {
+      "place_id": "/g/11wnn_plgz",
+      "name": "Marson Caffè",
+      "address": "144 Avenue T, Brooklyn, NY 11223",
+      "borough": "Brooklyn",
+      "lat": 40.5983237,
+      "lng": -73.9799372,
+      "maps_url": "https://maps.google.com/?cid=16059772766909175248",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/11z4281tqs",
       "name": "Mazi",
