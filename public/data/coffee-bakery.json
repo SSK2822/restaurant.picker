@@ -3,8 +3,22 @@
   "slug": "coffee-bakery",
   "source_url": "https://maps.app.goo.gl/DynoFDRsNK2VxugC8",
   "list_id": "1ezCTBUP9DbqX5Y3VZYEcg",
-  "updated_at": "2026-09-07T14:39:30+00:00",
+  "updated_at": "2026-09-09T13:17:56+00:00",
   "places": [
+    {
+      "place_id": "/g/11g0w40rrz",
+      "name": "Stripes Wine Bar & Cafe",
+      "address": "28 E 13th St, New York, NY 10003",
+      "borough": "Manhattan",
+      "lat": 40.7346846,
+      "lng": -73.9928759,
+      "maps_url": "https://maps.google.com/?cid=16224607658883859193",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "fid:-8520171477582246945:-278499908441281910",
       "name": "Rita's Italian Ice & Frozen Custard",
