@@ -3,8 +3,36 @@
   "slug": "coffee-bakery",
   "source_url": "https://maps.app.goo.gl/DynoFDRsNK2VxugC8",
   "list_id": "1ezCTBUP9DbqX5Y3VZYEcg",
-  "updated_at": "2026-09-09T13:17:56+00:00",
+  "updated_at": "2026-09-10T13:15:00+00:00",
   "places": [
+    {
+      "place_id": "/g/1th648vk",
+      "name": "Brooklyn Farmacy & Soda Fountain",
+      "address": "513 Henry St, Brooklyn, NY 11231",
+      "borough": "Brooklyn",
+      "lat": 40.6840105,
+      "lng": -73.9993109,
+      "maps_url": "https://maps.google.com/?cid=13304622767142244655",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
+    {
+      "place_id": "/g/1tqp_58p",
+      "name": "Gino's Pastry Shop & Cafe",
+      "address": "580 E 187th St, Bronx, NY 10458",
+      "borough": "Bronx",
+      "lat": 40.8557225,
+      "lng": -73.88813569999999,
+      "maps_url": "https://maps.google.com/?cid=6858514822780958438",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/11g0w40rrz",
       "name": "Stripes Wine Bar & Cafe",
