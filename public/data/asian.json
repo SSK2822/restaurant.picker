@@ -3,8 +3,36 @@
   "slug": "asian",
   "source_url": "https://maps.app.goo.gl/cXYHCLZWxsSfwm3MA",
   "list_id": "7Rn6uSmuW6h9QbXLywb0tg",
-  "updated_at": "2026-09-16T13:56:53+00:00",
+  "updated_at": "2026-09-17T14:00:47+00:00",
   "places": [
+    {
+      "place_id": "/g/11h9wzvthb",
+      "name": "MáLà Project Bryant Park",
+      "address": "41 W 46th St, New York, NY 10036, United States",
+      "borough": "Manhattan",
+      "lat": 40.756929299999996,
+      "lng": -73.9805621,
+      "maps_url": "https://maps.google.com/?cid=14190329484302570314",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
+    {
+      "place_id": "/g/11sh1g7czy",
+      "name": "The Best Sichuan",
+      "address": "7 E 47th St, New York, NY 10017, United States",
+      "borough": "Manhattan",
+      "lat": 40.7565702,
+      "lng": -73.9777458,
+      "maps_url": "https://maps.google.com/?cid=3483862940294264446",
+      "rating": null,
+      "reviews": null,
+      "cuisine": "",
+      "price_level": "",
+      "photo_url": null
+    },
     {
       "place_id": "/g/11nvy3gh1x",
       "name": "Ghungroo Indian Gastro Bar & Restaurant",
