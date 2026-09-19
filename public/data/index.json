@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-09-18T13:17:39+00:00",
+  "updated_at": "2026-09-19T12:48:13+00:00",
   "lists": [
     {
       "slug": "coffee-bakery",
       "name": "Coffee & Bakery",
       "count": 125,
-      "updated_at": "2026-09-18T13:17:38+00:00"
+      "updated_at": "2026-09-19T12:48:11+00:00"
     },
     {
       "slug": "mediterranean",
       "name": "Mediterranean",
       "count": 78,
-      "updated_at": "2026-09-18T13:17:38+00:00"
+      "updated_at": "2026-09-19T12:48:12+00:00"
     },
     {
       "slug": "asian",
       "name": "Asian",
       "count": 190,
-      "updated_at": "2026-09-18T13:17:39+00:00"
+      "updated_at": "2026-09-19T12:48:12+00:00"
     },
     {
       "slug": "boba",
       "name": "Boba",
       "count": 37,
-      "updated_at": "2026-09-18T13:17:39+00:00"
+      "updated_at": "2026-09-19T12:48:13+00:00"
     }
   ]
 }
